@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-02-23,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-02-25,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 🍎┃广东频道,#genre#
 广州综合,http://r.jdshipin.com/iR6Gq$IPV4•线路1
 广州综合,http://r.jdshipin.com/snhya$IPV4•线路2
@@ -45,11 +45,10 @@
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路3
 广东体育,http://php.jdshipin.com/PLTV/iptv.php$IPV4•线路4
 广东体育,http://php.jdshipin.com/TVOD/iptv.php$IPV4•线路5
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8$IPV4•线路6
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$IPV4•线路7
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路8
-广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8$IPV4•线路9
-广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146$IPV4•线路10
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$IPV4•线路6
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路7
+广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8$IPV4•线路8
+广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146$IPV4•线路9
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv$IPV4•线路1
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv$IPV4•线路2
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv$IPV4•线路3
@@ -61,8 +60,9 @@
 广东综艺,http://www.3344.uk:8888/rtp/239.77.1.237:5146$IPV4
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111$IPV4•线路1
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8$IPV4•线路2
-广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8$IPV4•线路3
-广东影视,http://www.3344.uk:8888/rtp/239.77.0.11:5146$IPV4•线路4
+广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8$IPV4•线路3
+广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8$IPV4•线路4
+广东影视,http://www.3344.uk:8888/rtp/239.77.0.11:5146$IPV4•线路5
 经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8$IPV4•线路1
 经济科教,http://www.3344.uk:8888/rtp/239.77.0.8:5146$IPV4•线路2
 岭南戏曲,http://www.3344.uk:8888/rtp/239.77.0.16:5146$IPV4
@@ -326,7 +326,7 @@ CETV4,http://49.113.179.174:4022/udp/238.125.3.92:5140$IPV4•线路2
 湖南卫视,https://tv.iill.top/migu/hnws&token=2276b9830bd9e6d7f4858f72fe6095ad7d4eeb9d25164399bb076f31d3ce364b$IPV4•线路3
 湖南卫视,http://go.bkpcp.top/mg/hunws$IPV4•线路4
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$IPV4•线路5
-湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8$IPV4•线路6
+湖南卫视,http://69.30.246.194/live/hnws.m3u8$IPV4•线路6
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8$IPV4•线路7
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8$IPV4•线路8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8$IPV4•线路9
@@ -651,11 +651,11 @@ CETV4,http://49.113.179.174:4022/udp/238.125.3.92:5140$IPV4•线路2
 翡翠台,http://r.jdshipin.com/62WM7$IPV4•线路3
 翡翠台,http://r.jdshipin.com/n90gt$IPV4•线路4
 翡翠台,http://r.jdshipin.com/GeWKr$IPV4•线路5
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$IPV4•线路6
-翡翠台,http://bxtv.3a.ink/api.php$IPV4•线路7
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$IPV4•线路8
-翡翠台,http://iptv.4666888.xyz/iptv2A.php$IPV4•线路9
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路10
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路6
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$IPV4•线路7
+翡翠台,http://bxtv.3a.ink/api.php$IPV4•线路8
+翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$IPV4•线路9
+翡翠台,http://iptv.4666888.xyz/iptv2A.php$IPV4•线路10
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8$IPV4•线路11
 翡翠台,http://php.jdshipin.com:8880/smt.php$IPV4•线路12
 凤凰中文,http://r.jdshipin.com/cCCzW$IPV4•线路1
@@ -682,6 +682,7 @@ J2,https://zb.kklive.top/smt.php$IPV4•线路2
 明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8$IPV4•线路3
 明珠台,http://cdn9.163189.xyz/smt1.1.php$IPV4•线路4
 明珠台,http://hls.168.us.kg/u/84/master.m3u8$IPV4•线路5
+无线明珠,https://mytv.cdn.loc.cc/o12.php$IPV4
 無線新聞台,https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8$IPV4•线路1
 無線新聞台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv$IPV4•线路2
 無線新聞台,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv$IPV4•线路3
@@ -698,8 +699,7 @@ TVBS欢乐,http://litv.zapi.us.kg/$IPV4
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8$IPV4
 中天娱乐,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8$IPV4
 中天综合台,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8$IPV4
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$IPV4•线路1
-寰宇新聞台,https://www.youtube.com/watch$IPV4•线路2
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$IPV4
 now新闻,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8$IPV4•线路1
 now新闻,https://cdn.163189.xyz/163189/now$IPV4•线路2
 133爆谷台,http://208.87.242.79/livehttpplay$IPV4
@@ -834,10 +834,9 @@ CGT法语咪咕,https://0472.org/hls/cgtnf.m3u8$IPV4•线路2
 优漫卡通,http://119.32.12.17:2901/udp/224.1.100.119:11111$IPV4•线路3
 广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111$IPV4•线路1
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8$IPV4•线路2
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8$IPV4•线路3
-广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8$IPV4•线路4
-广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8$IPV4•线路5
-广东少儿,http://www.3344.uk:8888/rtp/239.77.0.12:5146$IPV4•线路6
+广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8$IPV4•线路3
+广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8$IPV4•线路4
+广东少儿,http://www.3344.uk:8888/rtp/239.77.0.12:5146$IPV4•线路5
 🐶┃影视频道,#genre#
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8$IPV4•线路1
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php$IPV4•线路2
