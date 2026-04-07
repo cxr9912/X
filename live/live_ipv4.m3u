@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 group-title="更新日期",2026-04-05
+#EXTINF:-1 group-title="更新日期",2026-04-07
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 http://r.jdshipin.com/iR6Gq$IPV4•线路1
@@ -874,15 +874,17 @@ https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
 https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
-http://58.57.40.22:9901/tsfile/live/1049_1.m3u8$IPV4•线路4
+https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8$IPV4•线路4
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
-http://111.56.90.5/000000000000/1000000002000019837/1.m3u8$IPV4•线路5
+http://58.57.40.22:9901/tsfile/live/1049_1.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
-http://107.150.60.122/live/gxwshd.m3u8$IPV4•线路6
+http://111.56.90.5/000000000000/1000000002000019837/1.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
-http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8$IPV4•线路7
+http://107.150.60.122/live/gxwshd.m3u8$IPV4•线路7
 #EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
-http://cssbyd.imwork.net:8082/hls/33/index.m3u8$IPV4•线路8
+http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8$IPV4•线路8
+#EXTINF:-1 group-title="🥭┃卫视频道",广西卫视
+http://cssbyd.imwork.net:8082/hls/33/index.m3u8$IPV4•线路9
 #EXTINF:-1 group-title="🥭┃卫视频道",厦门卫视
 https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$IPV4•线路1
 #EXTINF:-1 group-title="🥭┃卫视频道",厦门卫视
@@ -1126,19 +1128,21 @@ https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
 https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://nn.7x9d.cn/xzc2.php$IPV4•线路3
+https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://58.57.40.22:9901/tsfile/live/1047_1.m3u8$IPV4•线路4
+http://nn.7x9d.cn/xzc2.php$IPV4•线路4
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8$IPV4•线路5
+http://58.57.40.22:9901/tsfile/live/1047_1.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://111.61.236.247:9081/hls/32/index.m3u8$IPV4•线路6
+http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://cssbyd.imwork.net:8082/hls/36/index.m3u8$IPV4•线路7
+http://111.61.236.247:9081/hls/32/index.m3u8$IPV4•线路7
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://183.11.239.36:808/hls/52/index.m3u8$IPV4•线路8
+http://cssbyd.imwork.net:8082/hls/36/index.m3u8$IPV4•线路8
 #EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8$IPV4•线路9
+http://183.11.239.36:808/hls/52/index.m3u8$IPV4•线路9
+#EXTINF:-1 group-title="🥭┃卫视频道",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8$IPV4•线路10
 #EXTINF:-1 group-title="🥭┃卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php$IPV4•线路1
 #EXTINF:-1 group-title="🥭┃卫视频道",西藏卫视
@@ -1308,7 +1312,9 @@ https://www.youtube.com/watch$IPV4•线路2
 #EXTINF:-1 group-title="🍓┃湾区频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🍓┃湾区频道",TVBS欢乐
-http://litv.zapi.us.kg/$IPV4
+https://gat.zhoujie218.top/litv/4gtv-4gtv068$IPV4•线路1
+#EXTINF:-1 group-title="🍓┃湾区频道",TVBS欢乐
+http://litv.zapi.us.kg/$IPV4•线路2
 #EXTINF:-1 group-title="🍓┃湾区频道",中天亚洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍓┃湾区频道",中天亚洲台
@@ -1474,7 +1480,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🍓┃湾区频道",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4
 #EXTINF:-1 group-title="🍓┃湾区频道",无线新闻
-http://r.jdshipin.com/CkuBd$IPV4
+http://r.jdshipin.com/CkuBd$IPV4•线路1
+#EXTINF:-1 group-title="🍓┃湾区频道",无线新闻
+https://hls-gateway.vpstv.net/streams/476926.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍓┃湾区频道",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍓┃湾区频道",纬来体育
