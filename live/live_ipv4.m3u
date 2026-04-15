@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 group-title="更新日期",2026-04-13
+#EXTINF:-1 group-title="更新日期",2026-04-15
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 http://r.jdshipin.com/iR6Gq$IPV4•线路1
@@ -90,11 +90,13 @@ https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv$IPV4•线路4
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
 http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路5
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路6
+http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://tvtj1.jxwltx.com:8003/dfws.m3u8$IPV4•线路7
+http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路7
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://www.3344.uk:8888/rtp/239.77.0.5:5146$IPV4•线路8
+http://tvtj1.jxwltx.com:8003/dfws.m3u8$IPV4•线路8
+#EXTINF:-1 group-title="🍎┃广东频道",广东民生
+http://www.3344.uk:8888/rtp/239.77.0.5:5146$IPV4•线路9
 #EXTINF:-1 group-title="🍎┃广东频道",广东综艺
 http://www.3344.uk:8888/rtp/239.77.1.237:5146$IPV4
 #EXTINF:-1 group-title="🍎┃广东频道",广东影视
@@ -1212,7 +1214,7 @@ https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍓┃湾区频道",中天娱乐
 https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8$IPV4
 #EXTINF:-1 group-title="🍓┃湾区频道",中天综合台
-https://gat.zhoujie218.top/litv/4gtv-4gtv046$IPV4
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8$IPV4
 #EXTINF:-1 group-title="🍓┃湾区频道",寰宇新聞台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8$IPV4
 #EXTINF:-1 group-title="🍓┃湾区频道",now新闻
