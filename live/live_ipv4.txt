@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-05-23,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-05-25,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 🍎┃广东频道,#genre#
 广州综合,http://r.jdshipin.com/iR6Gq$IPV4•线路1
 广州综合,http://r.jdshipin.com/snhya$IPV4•线路2
@@ -30,11 +30,10 @@
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路4
 广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8$IPV4•线路5
 广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146$IPV4•线路6
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8$IPV4•线路1
-广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路2
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路3
-广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8$IPV4•线路4
-广东民生,http://www.3344.uk:8888/rtp/239.77.0.5:5146$IPV4•线路5
+广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路1
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路2
+广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8$IPV4•线路3
+广东民生,http://www.3344.uk:8888/rtp/239.77.0.5:5146$IPV4•线路4
 广东综艺,http://www.3344.uk:8888/rtp/239.77.1.237:5146$IPV4
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8$IPV4•线路1
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111$IPV4•线路2
@@ -362,7 +361,7 @@ CETV2,http://49.113.179.174:4022/udp/238.125.3.92:5140$IPV4
 广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8$IPV4•线路1
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8$IPV4•线路2
 广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8$IPV4•线路3
-广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws2000/2000/index.m3u8$IPV4•线路4
+广东卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8$IPV4•线路4
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8$IPV4•线路5
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$IPV4•线路6
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8$IPV4•线路7
